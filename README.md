@@ -9,4 +9,4 @@
 
 ## Class Map
 
-*	
+*	Pronamic_EShop_IDeal_AddOn » Pronamic_WP_Pay_Extensions_EShop_Extension
