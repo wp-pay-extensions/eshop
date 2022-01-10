@@ -1,4 +1,4 @@
-# WordPress Pay Extension: eShop
+# [DEPRECATED] WordPress Pay Extension: eShop
 
 **eShop driver for the WordPress payment processing library.**
 
